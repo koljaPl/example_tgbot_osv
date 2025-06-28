@@ -1,0 +1,2 @@
+Я не буду тебе писать код по оплате так как способов очень много, но могу посоветовать CryptoBot для оплаты криптой в телеграмме
+I will not write you the code for payment as there are many ways, but I can recommend CryptoBot for payment with crypto in Telegram

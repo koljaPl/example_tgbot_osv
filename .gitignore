@@ -1,0 +1,10 @@
+/.venv
+/.idea
+/.git
+/src/logs
+/config/.env
+/src/database/bot_data.db
+/img.png
+/img_1.png
+__pycache__/
+.vscode/
